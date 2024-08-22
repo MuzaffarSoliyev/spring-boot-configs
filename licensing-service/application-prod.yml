@@ -1,0 +1,7 @@
+example:
+  property: "I AM PexitROD"
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/tasklist
+    username: postgres
+    password: admin
